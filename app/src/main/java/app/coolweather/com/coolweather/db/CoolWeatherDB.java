@@ -1,4 +1,4 @@
-package app.coolweather.com.coolweather.util;
+package app.coolweather.com.coolweather.db;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,6 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-import app.coolweather.com.coolweather.db.CoolWeatherOpenHelper;
 import app.coolweather.com.coolweather.model.City;
 import app.coolweather.com.coolweather.model.County;
 import app.coolweather.com.coolweather.model.Province;
